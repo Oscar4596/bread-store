@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bread-shop/static/css/main.1ba3ec8b.css",
+    "main.js": "/bread-shop/static/js/main.3ef7759d.js",
+    "static/js/453.93352d29.chunk.js": "/bread-shop/static/js/453.93352d29.chunk.js",
+    "index.html": "/bread-shop/index.html",
+    "main.1ba3ec8b.css.map": "/bread-shop/static/css/main.1ba3ec8b.css.map",
+    "main.3ef7759d.js.map": "/bread-shop/static/js/main.3ef7759d.js.map",
+    "453.93352d29.chunk.js.map": "/bread-shop/static/js/453.93352d29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ba3ec8b.css",
+    "static/js/main.3ef7759d.js"
+  ]
+}
